@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 ,中天
+http://59.125.101.187:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 ,TVBS
+http://50.7.61.148:30080/Entry/tvbsnews
+#EXTINF:-1 ,東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 ,running man
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.xs
+#EXTINF:-1 ,海綿寶寶
+http://cloudplay.tk/api/douyu.php?id=7528160
+#EXTINF:-1 ,海綿寶寶2
+http://cloudplay.tk/api/egame.php?id=678706943
+#EXTINF:-1 ,美劇
+http://txtest-xp2p.p2p.huya.com/src/1099531752754-1099531752754-86436122342719488-2199063628964-10057-A-0-1.xs
+#EXTINF:-1 ,港劇
+http://cloudplay.tk/api/egame.php?id=199681168
+#EXTINF:-1 ,東森新聞3
+
+#EXTINF:-1 ,TVBS2
